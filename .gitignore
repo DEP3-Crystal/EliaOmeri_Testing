@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+misc.xml
+modules.xml
+vcs.xml
+EliaOmeri_Testing.iml
+/out
+/.idea
+/target
